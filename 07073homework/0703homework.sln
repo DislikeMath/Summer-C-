@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "引用指针", "引用指针\引用指针.vcxproj", "{99BF12F1-38E9-4782-AC99-457122C8A51D}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Add函数与宏", "Add函数与宏\Add函数与宏.vcxproj", "{8488D03A-D57C-4ADA-98EE-05E3468B72C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BF12F1-38E9-4782-AC99-457122C8A51D}.Debug|Win32.ActiveCfg = Debug|Win32
+		{99BF12F1-38E9-4782-AC99-457122C8A51D}.Debug|Win32.Build.0 = Debug|Win32
+		{99BF12F1-38E9-4782-AC99-457122C8A51D}.Release|Win32.ActiveCfg = Release|Win32
+		{99BF12F1-38E9-4782-AC99-457122C8A51D}.Release|Win32.Build.0 = Release|Win32
+		{8488D03A-D57C-4ADA-98EE-05E3468B72C3}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8488D03A-D57C-4ADA-98EE-05E3468B72C3}.Debug|Win32.Build.0 = Debug|Win32
+		{8488D03A-D57C-4ADA-98EE-05E3468B72C3}.Release|Win32.ActiveCfg = Release|Win32
+		{8488D03A-D57C-4ADA-98EE-05E3468B72C3}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
